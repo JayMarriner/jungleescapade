@@ -1,0 +1,177 @@
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\JoystickGame.exe
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\JoystickGame.pdb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\obj\x86\Debug\JoystickGame.csprojAssemblyReference.cache
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\obj\x86\Debug\JoystickGame.csproj.CoreCompileInputs.cache
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\obj\x86\Debug\JoystickGame.csproj.CopyComplete
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\obj\x86\Debug\JoystickGame.exe
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\obj\x86\Debug\JoystickGame.pdb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Buttons\PlayButtonAgile.xnb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Background\MainMenuBKAgile.xnb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Buttons\QuitButton.xnb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Buttons\BackToMenu.xnb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\HealthBar.xnb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\ArmourPickUp.xnb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Player\CharacterSpriteSheetp.xnb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Player\CharacterSpriteSheetWeapon.xnb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\WeaponPickUp.xnb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Bullet\BulletM.xnb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\WeaponPickUpSingle5.xnb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon100.xnb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon50.xnb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon75.xnb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon25.xnb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon0.xnb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\MapAssets\Tile1.xnb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\MapAssets\Tile2.xnb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\MapAssets\Tile3.xnb
+C:\Users\lucak\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Background\MapBackground.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Player\CharacterSpriteSheetp.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Player\CharacterSpriteSheetWeapon.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon0.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon100.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon25.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon50.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon75.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\ArmourPickUp.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\HealthBar.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\WeaponPickUp.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\WeaponPickUpSingle5.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Buttons\BackToMenu.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Buttons\PlayButtonAgile.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Buttons\QuitButton.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Bullet\BulletM.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\MapAssets\Tile1.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\MapAssets\Tile2.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\MapAssets\Tile3.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Background\MainMenuBKAgile.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Background\MapBackground.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\JoystickGame.exe
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\JoystickGame.pdb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\obj\x86\Debug\JoystickGame.csproj.CoreCompileInputs.cache
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\obj\x86\Debug\JoystickGame.csproj.CopyComplete
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\obj\x86\Debug\JoystickGame.exe
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\obj\x86\Debug\JoystickGame.pdb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Enemy\enemy.xnb
+C:\Users\jayma\Desktop\JoystickGame\JoystickGame\obj\x86\Debug\JoystickGame.csprojAssemblyReference.cache
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\obj\x86\Debug\JoystickGame.csprojAssemblyReference.cache
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\obj\x86\Debug\JoystickGame.csproj.CoreCompileInputs.cache
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\obj\x86\Debug\JoystickGame.exe
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\obj\x86\Debug\JoystickGame.pdb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon0.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon100.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon25.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon50.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon75.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\ArmourPickUp.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\HealthBar.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\WeaponPickUp.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\WeaponPickUpSingle5.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Enemy\enemy.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Player\CharacterSpriteSheetp.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Player\CharacterSpriteSheetWeapon.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\MapAssets\Tile1.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\MapAssets\Tile2.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\MapAssets\Tile3.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Bullet\BulletM.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Buttons\BackToMenu.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Buttons\PlayButtonAgile.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Buttons\QuitButton.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Background\MainMenuBKAgile.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\Background\MapBackground.xnb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\JoystickGame.exe
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\JoystickGame.pdb
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\obj\x86\Debug\JoystickGame.csproj.CopyComplete
+C:\Users\lucak\Desktop\Year 3 Assignments\JoystickGame\JoystickGame\bin\Windows\x86\Debug\Content\MapAssets\Arrow.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\Player\CharacterSpriteSheetp.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\Player\CharacterSpriteSheetWeapon.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon0.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon100.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon25.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon50.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\armourIcon75.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\ArmourPickUp.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\HealthBar.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\WeaponPickUp.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\PickUps\WeaponPickUpSingle5.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\Buttons\BackToMenu.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\Buttons\PlayButtonAgile.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\Buttons\QuitButton.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\MapAssets\Arrow.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\MapAssets\Tile1.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\MapAssets\Tile2.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\MapAssets\Tile3.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\Bullet\BulletM.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\Enemy\enemy.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\Background\MainMenuBKAgile.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\Content\Background\MapBackground.xnb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\JoystickGame.exe
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\JoystickGame.pdb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\obj\x86\Debug\JoystickGame.csproj.CoreCompileInputs.cache
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\obj\x86\Debug\JoystickGame.csproj.CopyComplete
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\obj\x86\Debug\JoystickGame.exe
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\obj\x86\Debug\JoystickGame.pdb
+C:\Users\jayma\Desktop\game\JoystickGame (4)\JoystickGame\obj\x86\Debug\JoystickGame.csprojAssemblyReference.cache

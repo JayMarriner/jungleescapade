@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/Background/MainMenuBKAgile.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/Background/MapBackground.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/Bullet/BulletM.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/Buttons/BackToMenu.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/Buttons/PlayButtonAgile.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/Buttons/QuitButton.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/Enemy/enemy.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/MapAssets/Arrow.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/MapAssets/Tile1.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/MapAssets/Tile2.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/MapAssets/Tile3.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/PickUps/armourIcon0.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/PickUps/armourIcon100.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/PickUps/armourIcon25.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/PickUps/armourIcon50.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/PickUps/armourIcon75.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/PickUps/ArmourPickUp.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/PickUps/HealthBar.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/PickUps/WeaponPickUp.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/PickUps/WeaponPickUpSingle5.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/Player/CharacterSpriteSheetp.png</File>
+    <File>C:/Users/lucak/Desktop/Year 3 Assignments/JoystickGame/JoystickGame/Content/Player/CharacterSpriteSheetWeapon.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
